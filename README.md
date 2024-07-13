@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivamsimagapu)](https://github.com/anuraghazra/github-readme-stats)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile) 
 [![Email](https://img.shields.io/badge/Email-srivamsimagapu@gmail.com-red?style=flat&logo=gmail)](mailto:srivamsimagapu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-srivamsimagapu-black?style=flat&logo=github)](https://github.com/srivamsimagapu)
+
 
 ---
 
