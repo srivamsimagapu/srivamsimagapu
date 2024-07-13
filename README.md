@@ -1,3 +1,5 @@
+![logo](https://media.licdn.com/dms/image/D5616AQEuNtk_oUj7cg/profile-displaybackgroundimage-shrink_350_1400/0/1707364251615?e=1726099200&v=beta&t=xP4Y7YtOtLyBNMLGCQVkRsPjgA6nzuhyok-uX3RaT6o)
+
 <h1 align="center">Hi 👋, I'm Sri Vamsi Magapu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Frameworks and Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/srivamsimagapu](https://github.com/srivamsimagapu)
+- 👨‍💻 All of my projects are available at [Respository](https://github.com/srivamsimagapu)
 
 - 📫 How to reach me **srivamsimagapu@gmail.com**
 
