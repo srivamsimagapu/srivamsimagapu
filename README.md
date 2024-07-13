@@ -1,97 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sri Vamsi Magapu</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-# Srivamsi Magapu - Full Stack Developer
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivamsimagapu)](https://github.com/anuraghazra/github-readme-stats)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile) 
-[![Email](https://img.shields.io/badge/Email-srivamsimagapu@gmail.com-red?style=flat&logo=gmail)](mailto:srivamsimagapu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-srivamsimagapu-black?style=flat&logo=github)](https://github.com/srivamsimagapu)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivamsimagapu&label=Profile%20views&color=0e75b6&style=flat" alt="srivamsimagapu" /> </p>
 
----
+- 🌱 I’m currently learning **Spring Frameworks and Backend**
 
-## Introduction
+- 👨‍💻 All of my projects are available at [https://github.com/srivamsimagapu](https://github.com/srivamsimagapu)
 
-Hello! I'm Srivamsi Magapu, a passionate and dedicated Full Stack Developer from Hyderabad, India. I have a strong foundation in various programming languages and frameworks, and I am continuously working to expand my skill set. I thrive on learning new technologies and applying them to real-world projects. This portfolio showcases my educational background, skills, projects, and certifications.
+- 📫 How to reach me **srivamsimagapu@gmail.com**
 
----
+- ⚡ Fun fact **I think I'm Funny**
 
-## Objective
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/srivamsimagapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivamsimagapu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/srivamsimagapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srivamsimagapu" height="30" width="40" /></a>
+</p>
 
-A self-motivated and enthusiastic programmer seeking an entry-level position as a Software Developer to leverage my skills and contribute to innovative projects while continuing to learn and grow professionally.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivamsimagapu&show_icons=true&locale=en&layout=compact" alt="srivamsimagapu" /></p>
 
-## Skills
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivamsimagapu&show_icons=true&locale=en" alt="srivamsimagapu" /></p>
 
-- **Programming Languages:** Python, Java, C#, Kotlin (Beginner)
-- **Libraries/Frameworks:** Spring Boot, Angular, Tailwind CSS, NumPy, Pandas
-- **Tools/Platforms:** Git, Selenium with Automation Testing
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivamsimagapu&" alt="srivamsimagapu" /></p>
 
----
-
-## Education
-
-- **IDEAL INSTITUTE OF TECHNOLOGY**
-  - B.Tech in Computer Science and Engineering
-  - 2018 - 2022
-  - Kakinada, AP, India
-
-- **NARAYANA JUNIOR COLLEGE**
-  - MPC-Intermediate
-  - 2016 - 2018
-  - Kakinada, AP, India
-
-- **DURGA PRASAD PUBLIC SCHOOL**
-  - 10th Class/SSC
-  - 2015 - 2016
-  - Kakinada, AP, India
-
----
-
-## Projects / Open-Source
-
-### [TaskMaster](https://github.com/yourusername/TaskMaster)
-*HTML5, CSS, JavaScript*
-
-Task Master is a straightforward web application designed for managing tasks and to-do lists efficiently. Users can seamlessly add, edit, and delete tasks, as well as mark them as completed. The application offers functionality to categorize tasks and set due dates for better organization. Implemented with HTML5, CSS, and JavaScript for the frontend as a User Interface.
-
-### [WeatherWise](https://github.com/yourusername/WeatherWise)
-*HTML, CSS, JavaScript*
-
-WeatherWise is an application that displays current weather information and forecasts for a specified location. Users can enter a city or ZIP code to retrieve weather data, including temperature, humidity, wind speed, and conditions. This project showcases my skills in working with APIs and dynamic web content.
-
----
-
-## Certifications
-
-- **Java** - HackerRank
-- **Python** - HackerRank
-- **C#** - HackerRank
-- **Java Full Stack** - Qspiders Hyderabad
-- **JavaScript** - HackerRank
-- **SQL** - HackerRank
-- **SQL (Intermediate)** - HackerRank
-
----
-
-## Contact
-
-- **Email:** [srivamsimagapu@gmail.com](mailto:srivamsimagapu@gmail.com)
-- **Phone:** +91-63045-46269
-- **Location:** Hyderabad, India
-- **LinkedIn:** [your LinkedIn profile](https://www.linkedin.com/in/srivamsimagapu)
-
----
-
-## Additional Information
-
-I am always eager to take on new challenges and collaborate with others to create innovative solutions. My experience with a variety of programming languages and tools allows me to approach problems from different angles and find the most effective solutions. When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and staying updated with industry trends.
-
-Thank you for visiting my portfolio! Feel free to check out my projects and connect with me on LinkedIn.
-
----
-
-## GitHub Stats
-
-![srivamsimagapu's Stats](https://github-readme-stats.vercel.app/api?username=srivamsimagapu&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![srivamsimagapu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=srivamsimagapu&theme=tokyonight&hide_border=false)
-![srivamsimagapu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivamsimagapu&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
